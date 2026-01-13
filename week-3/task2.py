@@ -1,5 +1,5 @@
-a = input().strip()
-b = input().strip()
+a = input()
+b = input()
 
 m = len(b)
 rotations = set()

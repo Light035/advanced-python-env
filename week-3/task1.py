@@ -1,4 +1,4 @@
-s = input().strip()
+s = input()
 
 count = 0
 count += s.count(">>-->")

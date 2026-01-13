@@ -1,4 +1,4 @@
-eq = input().strip()
+eq = input()
 
 a, op, b, _, c = eq
 
