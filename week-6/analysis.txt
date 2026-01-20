@@ -1,0 +1,6 @@
+Lines: 2
+Words: 5
+Word frequency:
+hello: 1
+world: 1
+python: 3
